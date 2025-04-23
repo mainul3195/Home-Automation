@@ -82,7 +82,7 @@ The system uses the following virtual pins:
 - V9: Master light control
 
 ## Circuit Diagram
-(Add circuit diagram here)
+![Circuit Diagram](diagram.jpg)
 
 ## Future Enhancements
 - Voice control integration
