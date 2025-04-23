@@ -11,6 +11,7 @@ This smart home automation system provides a comprehensive solution for monitori
 - Control lights and electric utilities from your smartphone
 - Master light control
 - Individual appliance control
+- Automatic lighting based on day/night detection
 
 ### Security System
 - Motion detection with PIR sensor
@@ -21,6 +22,7 @@ This smart home automation system provides a comprehensive solution for monitori
 ### Environmental Monitoring
 - Temperature and humidity tracking
 - Gas leak detection
+- Day and night detection for automated lighting
 - Real-time environmental data dashboard
 
 ### Smart Water Management
@@ -39,6 +41,7 @@ This smart home automation system provides a comprehensive solution for monitori
 - ESP8266 WiFi module
 - DHT22 temperature and humidity sensor
 - PIR motion sensor
+- LDR (Light Dependent Resistor) for day/night detection
 - Ultrasonic sensor (for water level)
 - Relay modules for controlling appliances
 - LED indicators
